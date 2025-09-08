@@ -5,6 +5,9 @@ Weekly Exercises
 
 Exercise 1 and 2 are in one file here 
 
+[View Exercises 1 & 2 Notebook](https://github.com/tammekasra/Data-Sciency-Introduction/blob/main/Exercises_1_2.ipynb)
+
+
 
 **3.1**  
 ![Homework 3.1 Screenshot](https://github.com/tammekasra/Data-Sciency-Introduction/raw/main/1.png)
